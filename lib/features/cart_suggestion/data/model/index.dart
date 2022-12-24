@@ -1,0 +1,12 @@
+export 'cart_suggestion_app_names_model.dart';
+export 'cart_suggestion_brand_model.dart';
+export 'cart_suggestion_detail_model.dart';
+export 'cart_suggestion_item_model.dart';
+export 'cart_suggestion_vehicle_model.dart';
+export 'set_item_basket_qty_model.dart';
+export 'get_cart_suggestions_params.dart';
+export 'paging_cart_suggestion_model.dart';
+export 'cart_suggestion_category_model.dart';
+export 'cart_suggestion_paging_vehicle_model.dart';
+export 'cart_suggestion_item_params.dart';
+export 'cart_suggestion_paging_brand_model.dart';
